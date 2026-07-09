@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/RaviNayan/DSA---LeetCode/tree/master/0075-sort-colors) |
+| [0136-single-number](https://github.com/RaviNayan/DSA---LeetCode/tree/master/0136-single-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -15,4 +16,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/RaviNayan/DSA---LeetCode/tree/master/0075-sort-colors) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/RaviNayan/DSA---LeetCode/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
