@@ -49,4 +49,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1053-previous-permutation-with-one-swap](https://github.com/RaviNayan/DSA---LeetCode/tree/master/1053-previous-permutation-with-one-swap) |
+## Math
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/RaviNayan/DSA---LeetCode/tree/master/0050-powx-n) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/RaviNayan/DSA---LeetCode/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
