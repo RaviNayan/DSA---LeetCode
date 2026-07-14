@@ -1,37 +1,25 @@
 class Solution {
-    public void sortColors(int[] nums) {
-        quicksort(nums, 0, nums.length-1);
-    }
+    public void sortColors(int[] arr) {
+        //Dutch National Flag Algoritm
+        int low = 0, mid = 0, high = arr.length-1;
 
-    public void quicksort(int[] arr, int low, int high) {
-        if (low < high) {
-            int pIndex = partition(arr, low, high);
-            quicksort(arr, low, pIndex - 1);
-            quicksort(arr, pIndex + 1, high);
-        }
-    }
-
-    public int partition(int[] arr, int low, int high) {
-        int pivot = arr[low];
-        int i = low;
-        int j = high;
-
-        while (i < j) {
-            while (i <= high - 1 && arr[i] <= pivot)
-                i++;
-            while (j >= low + 1 && arr[j] > pivot)
-                j--;
-
-            if (i < j) {
-                int temp = arr[i];
-                arr[i] = arr[j];
-                arr[j] = temp;
+        while(mid<=high){
+            if (arr[mid] == 0){
+                int temp = arr[mid];
+                arr[mid] = arr[low];
+                arr[low] = temp;
+                mid++;
+                low++;
+            }
+            else if (arr[mid]==1){
+                mid++;
+            }
+            else{
+                int temp = arr[mid];
+                arr[mid] = arr[high];
+                arr[high] = temp;
+                high--;
             }
         }
-        int temp = arr[low];
-        arr[low] = arr[j];
-        arr[j] = temp;
-
-        return j;
     }
 }
