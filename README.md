@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/RaviNayan/DSA---LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0018-4sum](https://github.com/RaviNayan/DSA---LeetCode/tree/master/0018-4sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/RaviNayan/DSA---LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/RaviNayan/DSA---LeetCode/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/RaviNayan/DSA---LeetCode/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/RaviNayan/DSA---LeetCode/tree/master/0053-maximum-subarray) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0018-4sum](https://github.com/RaviNayan/DSA---LeetCode/tree/master/0018-4sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/RaviNayan/DSA---LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/RaviNayan/DSA---LeetCode/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/RaviNayan/DSA---LeetCode/tree/master/0075-sort-colors) |
 | [0349-intersection-of-two-arrays](https://github.com/RaviNayan/DSA---LeetCode/tree/master/0349-intersection-of-two-arrays) |
