@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/RaviNayan/DSA---LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/RaviNayan/DSA---LeetCode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/RaviNayan/DSA---LeetCode/tree/master/0169-majority-element) |
+| [0228-summary-ranges](https://github.com/RaviNayan/DSA---LeetCode/tree/master/0228-summary-ranges) |
 | [0229-majority-element-ii](https://github.com/RaviNayan/DSA---LeetCode/tree/master/0229-majority-element-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/RaviNayan/DSA---LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0496-next-greater-element-i](https://github.com/RaviNayan/DSA---LeetCode/tree/master/0496-next-greater-element-i) |
