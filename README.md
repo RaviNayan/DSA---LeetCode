@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/RaviNayan/DSA---LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/RaviNayan/DSA---LeetCode/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/RaviNayan/DSA---LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Sliding Window
 |  |
