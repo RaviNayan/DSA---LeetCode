@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RaviNayan/DSA---LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/RaviNayan/DSA---LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/RaviNayan/DSA---LeetCode/tree/master/0136-single-number) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/RaviNayan/DSA---LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/RaviNayan/DSA---LeetCode/tree/master/0169-majority-element) |
 | [0228-summary-ranges](https://github.com/RaviNayan/DSA---LeetCode/tree/master/0228-summary-ranges) |
 | [0229-majority-element-ii](https://github.com/RaviNayan/DSA---LeetCode/tree/master/0229-majority-element-ii) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/RaviNayan/DSA---LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/RaviNayan/DSA---LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/RaviNayan/DSA---LeetCode/tree/master/0035-search-insert-position) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/RaviNayan/DSA---LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0349-intersection-of-two-arrays](https://github.com/RaviNayan/DSA---LeetCode/tree/master/0349-intersection-of-two-arrays) |
 ## Divide and Conquer
 |  |
