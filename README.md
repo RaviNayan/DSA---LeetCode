@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0228-summary-ranges](https://github.com/RaviNayan/DSA---LeetCode/tree/master/0228-summary-ranges) |
 | [0229-majority-element-ii](https://github.com/RaviNayan/DSA---LeetCode/tree/master/0229-majority-element-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/RaviNayan/DSA---LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0410-split-array-largest-sum](https://github.com/RaviNayan/DSA---LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0496-next-greater-element-i](https://github.com/RaviNayan/DSA---LeetCode/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/RaviNayan/DSA---LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/RaviNayan/DSA---LeetCode/tree/master/0560-subarray-sum-equals-k) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/RaviNayan/DSA---LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/RaviNayan/DSA---LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0349-intersection-of-two-arrays](https://github.com/RaviNayan/DSA---LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0410-split-array-largest-sum](https://github.com/RaviNayan/DSA---LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/RaviNayan/DSA---LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0875-koko-eating-bananas](https://github.com/RaviNayan/DSA---LeetCode/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/RaviNayan/DSA---LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/RaviNayan/DSA---LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0605-can-place-flowers](https://github.com/RaviNayan/DSA---LeetCode/tree/master/0605-can-place-flowers) |
 | [1053-previous-permutation-with-one-swap](https://github.com/RaviNayan/DSA---LeetCode/tree/master/1053-previous-permutation-with-one-swap) |
 ## Math
@@ -159,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/RaviNayan/DSA---LeetCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/RaviNayan/DSA---LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RaviNayan/DSA---LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0410-split-array-largest-sum](https://github.com/RaviNayan/DSA---LeetCode/tree/master/0410-split-array-largest-sum) |
 ## Simulation
 |  |
 | ------- |
@@ -180,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/RaviNayan/DSA---LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/RaviNayan/DSA---LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/RaviNayan/DSA---LeetCode/tree/master/0724-find-pivot-index) |
 ## Backtracking
