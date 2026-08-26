@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/RaviNayan/DSA---LeetCode/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/RaviNayan/DSA---LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/RaviNayan/DSA---LeetCode/tree/master/0205-isomorphic-strings) |
+| [0796-rotate-string](https://github.com/RaviNayan/DSA---LeetCode/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/RaviNayan/DSA---LeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/RaviNayan/DSA---LeetCode/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/RaviNayan/DSA---LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -228,4 +229,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/RaviNayan/DSA---LeetCode/tree/master/0014-longest-common-prefix) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/RaviNayan/DSA---LeetCode/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
