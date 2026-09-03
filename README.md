@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/RaviNayan/DSA---LeetCode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/RaviNayan/DSA---LeetCode/tree/master/0066-plus-one) |
 | [0628-maximum-product-of-three-numbers](https://github.com/RaviNayan/DSA---LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
+| [1922-count-good-numbers](https://github.com/RaviNayan/DSA---LeetCode/tree/master/1922-count-good-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/RaviNayan/DSA---LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Recursion
 |  |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/RaviNayan/DSA---LeetCode/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/RaviNayan/DSA---LeetCode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/RaviNayan/DSA---LeetCode/tree/master/0234-palindrome-linked-list) |
+| [1922-count-good-numbers](https://github.com/RaviNayan/DSA---LeetCode/tree/master/1922-count-good-numbers) |
 ## String
 |  |
 | ------- |
