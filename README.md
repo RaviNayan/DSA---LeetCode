@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/RaviNayan/DSA---LeetCode/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/RaviNayan/DSA---LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/RaviNayan/DSA---LeetCode/tree/master/0169-majority-element) |
+| [0216-combination-sum-iii](https://github.com/RaviNayan/DSA---LeetCode/tree/master/0216-combination-sum-iii) |
 | [0228-summary-ranges](https://github.com/RaviNayan/DSA---LeetCode/tree/master/0228-summary-ranges) |
 | [0229-majority-element-ii](https://github.com/RaviNayan/DSA---LeetCode/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/RaviNayan/DSA---LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/RaviNayan/DSA---LeetCode/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/RaviNayan/DSA---LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/RaviNayan/DSA---LeetCode/tree/master/0090-subsets-ii) |
+| [0216-combination-sum-iii](https://github.com/RaviNayan/DSA---LeetCode/tree/master/0216-combination-sum-iii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
