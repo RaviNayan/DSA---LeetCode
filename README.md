@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/RaviNayan/DSA---LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/RaviNayan/DSA---LeetCode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/RaviNayan/DSA---LeetCode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/RaviNayan/DSA---LeetCode/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/RaviNayan/DSA---LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/RaviNayan/DSA---LeetCode/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/RaviNayan/DSA---LeetCode/tree/master/0090-subsets-ii) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/RaviNayan/DSA---LeetCode/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/RaviNayan/DSA---LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/RaviNayan/DSA---LeetCode/tree/master/0022-generate-parentheses) |
+| [0079-word-search](https://github.com/RaviNayan/DSA---LeetCode/tree/master/0079-word-search) |
 | [0151-reverse-words-in-a-string](https://github.com/RaviNayan/DSA---LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/RaviNayan/DSA---LeetCode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/RaviNayan/DSA---LeetCode/tree/master/0242-valid-anagram) |
@@ -235,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/RaviNayan/DSA---LeetCode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/RaviNayan/DSA---LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/RaviNayan/DSA---LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/RaviNayan/DSA---LeetCode/tree/master/0079-word-search) |
 | [0240-search-a-2d-matrix-ii](https://github.com/RaviNayan/DSA---LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [1901-find-a-peak-element-ii](https://github.com/RaviNayan/DSA---LeetCode/tree/master/1901-find-a-peak-element-ii) |
 ## Prefix Sum
@@ -250,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/RaviNayan/DSA---LeetCode/tree/master/0022-generate-parentheses) |
 | [0040-combination-sum-ii](https://github.com/RaviNayan/DSA---LeetCode/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/RaviNayan/DSA---LeetCode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/RaviNayan/DSA---LeetCode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/RaviNayan/DSA---LeetCode/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/RaviNayan/DSA---LeetCode/tree/master/0216-combination-sum-iii) |
 ## Heap (Priority Queue)
@@ -308,4 +312,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/RaviNayan/DSA---LeetCode/tree/master/0148-sort-list) |
+## Depth-First Search
+|  |
+| ------- |
+| [0079-word-search](https://github.com/RaviNayan/DSA---LeetCode/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
