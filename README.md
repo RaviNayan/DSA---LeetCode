@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/RaviNayan/DSA---LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/RaviNayan/DSA---LeetCode/tree/master/0035-search-insert-position) |
 | [0040-combination-sum-ii](https://github.com/RaviNayan/DSA---LeetCode/tree/master/0040-combination-sum-ii) |
+| [0051-n-queens](https://github.com/RaviNayan/DSA---LeetCode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/RaviNayan/DSA---LeetCode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/RaviNayan/DSA---LeetCode/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/RaviNayan/DSA---LeetCode/tree/master/0056-merge-intervals) |
@@ -260,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/RaviNayan/DSA---LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/RaviNayan/DSA---LeetCode/tree/master/0022-generate-parentheses) |
 | [0040-combination-sum-ii](https://github.com/RaviNayan/DSA---LeetCode/tree/master/0040-combination-sum-ii) |
+| [0051-n-queens](https://github.com/RaviNayan/DSA---LeetCode/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/RaviNayan/DSA---LeetCode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/RaviNayan/DSA---LeetCode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/RaviNayan/DSA---LeetCode/tree/master/0090-subsets-ii) |
@@ -325,4 +327,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/RaviNayan/DSA---LeetCode/tree/master/0079-word-search) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/RaviNayan/DSA---LeetCode/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
