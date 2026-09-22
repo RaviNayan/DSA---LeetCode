@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/RaviNayan/DSA---LeetCode/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/RaviNayan/DSA---LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/RaviNayan/DSA---LeetCode/tree/master/0169-majority-element) |
+| [0204-count-primes](https://github.com/RaviNayan/DSA---LeetCode/tree/master/0204-count-primes) |
 | [0216-combination-sum-iii](https://github.com/RaviNayan/DSA---LeetCode/tree/master/0216-combination-sum-iii) |
 | [0228-summary-ranges](https://github.com/RaviNayan/DSA---LeetCode/tree/master/0228-summary-ranges) |
 | [0229-majority-element-ii](https://github.com/RaviNayan/DSA---LeetCode/tree/master/0229-majority-element-ii) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/RaviNayan/DSA---LeetCode/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/RaviNayan/DSA---LeetCode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/RaviNayan/DSA---LeetCode/tree/master/0066-plus-one) |
+| [0204-count-primes](https://github.com/RaviNayan/DSA---LeetCode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/RaviNayan/DSA---LeetCode/tree/master/0231-power-of-two) |
 | [0628-maximum-product-of-three-numbers](https://github.com/RaviNayan/DSA---LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1922-count-good-numbers](https://github.com/RaviNayan/DSA---LeetCode/tree/master/1922-count-good-numbers) |
@@ -242,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/RaviNayan/DSA---LeetCode/tree/master/0204-count-primes) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/RaviNayan/DSA---LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Matrix
 |  |
@@ -335,4 +338,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/RaviNayan/DSA---LeetCode/tree/master/0051-n-queens) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/RaviNayan/DSA---LeetCode/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/RaviNayan/DSA---LeetCode/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/RaviNayan/DSA---LeetCode/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/RaviNayan/DSA---LeetCode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
