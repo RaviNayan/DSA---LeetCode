@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/RaviNayan/DSA---LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0724-find-pivot-index](https://github.com/RaviNayan/DSA---LeetCode/tree/master/0724-find-pivot-index) |
 | [0875-koko-eating-bananas](https://github.com/RaviNayan/DSA---LeetCode/tree/master/0875-koko-eating-bananas) |
+| [0904-fruit-into-baskets](https://github.com/RaviNayan/DSA---LeetCode/tree/master/0904-fruit-into-baskets) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/RaviNayan/DSA---LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1053-previous-permutation-with-one-swap](https://github.com/RaviNayan/DSA---LeetCode/tree/master/1053-previous-permutation-with-one-swap) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/RaviNayan/DSA---LeetCode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/RaviNayan/DSA---LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/RaviNayan/DSA---LeetCode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/RaviNayan/DSA---LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [0904-fruit-into-baskets](https://github.com/RaviNayan/DSA---LeetCode/tree/master/0904-fruit-into-baskets) |
 | [3731-find-missing-elements](https://github.com/RaviNayan/DSA---LeetCode/tree/master/3731-find-missing-elements) |
 ## Stack
 |  |
@@ -224,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/RaviNayan/DSA---LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0904-fruit-into-baskets](https://github.com/RaviNayan/DSA---LeetCode/tree/master/0904-fruit-into-baskets) |
 ## Counting
 |  |
 | ------- |
