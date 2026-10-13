@@ -351,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0079-word-search](https://github.com/RaviNayan/DSA---LeetCode/tree/master/0079-word-search) |
 | [0100-same-tree](https://github.com/RaviNayan/DSA---LeetCode/tree/master/0100-same-tree) |
+| [0112-path-sum](https://github.com/RaviNayan/DSA---LeetCode/tree/master/0112-path-sum) |
 ## Algorithm X
 |  |
 | ------- |
@@ -391,12 +392,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/RaviNayan/DSA---LeetCode/tree/master/0100-same-tree) |
+| [0112-path-sum](https://github.com/RaviNayan/DSA---LeetCode/tree/master/0112-path-sum) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/RaviNayan/DSA---LeetCode/tree/master/0100-same-tree) |
+| [0112-path-sum](https://github.com/RaviNayan/DSA---LeetCode/tree/master/0112-path-sum) |
 ## Binary Tree
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/RaviNayan/DSA---LeetCode/tree/master/0100-same-tree) |
+| [0112-path-sum](https://github.com/RaviNayan/DSA---LeetCode/tree/master/0112-path-sum) |
 <!---LeetCode Topics End-->
