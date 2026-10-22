@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/RaviNayan/DSA---LeetCode/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/RaviNayan/DSA---LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0724-find-pivot-index](https://github.com/RaviNayan/DSA---LeetCode/tree/master/0724-find-pivot-index) |
+| [0860-lemonade-change](https://github.com/RaviNayan/DSA---LeetCode/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/RaviNayan/DSA---LeetCode/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/RaviNayan/DSA---LeetCode/tree/master/0904-fruit-into-baskets) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/RaviNayan/DSA---LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/RaviNayan/DSA---LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0605-can-place-flowers](https://github.com/RaviNayan/DSA---LeetCode/tree/master/0605-can-place-flowers) |
+| [0860-lemonade-change](https://github.com/RaviNayan/DSA---LeetCode/tree/master/0860-lemonade-change) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/RaviNayan/DSA---LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1053-previous-permutation-with-one-swap](https://github.com/RaviNayan/DSA---LeetCode/tree/master/1053-previous-permutation-with-one-swap) |
 ## Math
