@@ -193,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/RaviNayan/DSA---LeetCode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/RaviNayan/DSA---LeetCode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/RaviNayan/DSA---LeetCode/tree/master/0069-sqrtx) |
+| [0171-excel-sheet-column-number](https://github.com/RaviNayan/DSA---LeetCode/tree/master/0171-excel-sheet-column-number) |
 | [0204-count-primes](https://github.com/RaviNayan/DSA---LeetCode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/RaviNayan/DSA---LeetCode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/RaviNayan/DSA---LeetCode/tree/master/0258-add-digits) |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/RaviNayan/DSA---LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0079-word-search](https://github.com/RaviNayan/DSA---LeetCode/tree/master/0079-word-search) |
 | [0151-reverse-words-in-a-string](https://github.com/RaviNayan/DSA---LeetCode/tree/master/0151-reverse-words-in-a-string) |
+| [0171-excel-sheet-column-number](https://github.com/RaviNayan/DSA---LeetCode/tree/master/0171-excel-sheet-column-number) |
 | [0205-isomorphic-strings](https://github.com/RaviNayan/DSA---LeetCode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/RaviNayan/DSA---LeetCode/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/RaviNayan/DSA---LeetCode/tree/master/0451-sort-characters-by-frequency) |
