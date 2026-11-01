@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/RaviNayan/DSA---LeetCode/tree/master/0020-valid-parentheses) |
+| [0144-binary-tree-preorder-traversal](https://github.com/RaviNayan/DSA---LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/RaviNayan/DSA---LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/RaviNayan/DSA---LeetCode/tree/master/0496-next-greater-element-i) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/RaviNayan/DSA---LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -372,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/RaviNayan/DSA---LeetCode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/RaviNayan/DSA---LeetCode/tree/master/0101-symmetric-tree) |
 | [0112-path-sum](https://github.com/RaviNayan/DSA---LeetCode/tree/master/0112-path-sum) |
+| [0144-binary-tree-preorder-traversal](https://github.com/RaviNayan/DSA---LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 ## Algorithm X
 |  |
 | ------- |
@@ -414,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/RaviNayan/DSA---LeetCode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/RaviNayan/DSA---LeetCode/tree/master/0101-symmetric-tree) |
 | [0112-path-sum](https://github.com/RaviNayan/DSA---LeetCode/tree/master/0112-path-sum) |
+| [0144-binary-tree-preorder-traversal](https://github.com/RaviNayan/DSA---LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -426,6 +429,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/RaviNayan/DSA---LeetCode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/RaviNayan/DSA---LeetCode/tree/master/0101-symmetric-tree) |
 | [0112-path-sum](https://github.com/RaviNayan/DSA---LeetCode/tree/master/0112-path-sum) |
+| [0144-binary-tree-preorder-traversal](https://github.com/RaviNayan/DSA---LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 ## Binary Indexed Tree
 |  |
 | ------- |
