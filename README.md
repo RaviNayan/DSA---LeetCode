@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/RaviNayan/DSA---LeetCode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/RaviNayan/DSA---LeetCode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/RaviNayan/DSA---LeetCode/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/RaviNayan/DSA---LeetCode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/RaviNayan/DSA---LeetCode/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/RaviNayan/DSA---LeetCode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/RaviNayan/DSA---LeetCode/tree/master/0073-set-matrix-zeroes) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/RaviNayan/DSA---LeetCode/tree/master/0055-jump-game) |
 | [0410-split-array-largest-sum](https://github.com/RaviNayan/DSA---LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0605-can-place-flowers](https://github.com/RaviNayan/DSA---LeetCode/tree/master/0605-can-place-flowers) |
 | [0860-lemonade-change](https://github.com/RaviNayan/DSA---LeetCode/tree/master/0860-lemonade-change) |
@@ -257,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/RaviNayan/DSA---LeetCode/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/RaviNayan/DSA---LeetCode/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/RaviNayan/DSA---LeetCode/tree/master/0055-jump-game) |
 | [0118-pascals-triangle](https://github.com/RaviNayan/DSA---LeetCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/RaviNayan/DSA---LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RaviNayan/DSA---LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
