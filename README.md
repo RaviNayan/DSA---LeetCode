@@ -208,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/RaviNayan/DSA---LeetCode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/RaviNayan/DSA---LeetCode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/RaviNayan/DSA---LeetCode/tree/master/0258-add-digits) |
+| [0326-power-of-three](https://github.com/RaviNayan/DSA---LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/RaviNayan/DSA---LeetCode/tree/master/0342-power-of-four) |
 | [0628-maximum-product-of-three-numbers](https://github.com/RaviNayan/DSA---LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1922-count-good-numbers](https://github.com/RaviNayan/DSA---LeetCode/tree/master/1922-count-good-numbers) |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/RaviNayan/DSA---LeetCode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/RaviNayan/DSA---LeetCode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/RaviNayan/DSA---LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0326-power-of-three](https://github.com/RaviNayan/DSA---LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/RaviNayan/DSA---LeetCode/tree/master/0342-power-of-four) |
 | [1922-count-good-numbers](https://github.com/RaviNayan/DSA---LeetCode/tree/master/1922-count-good-numbers) |
 ## String
