@@ -210,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/RaviNayan/DSA---LeetCode/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/RaviNayan/DSA---LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/RaviNayan/DSA---LeetCode/tree/master/0342-power-of-four) |
+| [0415-add-strings](https://github.com/RaviNayan/DSA---LeetCode/tree/master/0415-add-strings) |
 | [0628-maximum-product-of-three-numbers](https://github.com/RaviNayan/DSA---LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0728-self-dividing-numbers](https://github.com/RaviNayan/DSA---LeetCode/tree/master/0728-self-dividing-numbers) |
 | [1922-count-good-numbers](https://github.com/RaviNayan/DSA---LeetCode/tree/master/1922-count-good-numbers) |
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/RaviNayan/DSA---LeetCode/tree/master/0171-excel-sheet-column-number) |
 | [0205-isomorphic-strings](https://github.com/RaviNayan/DSA---LeetCode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/RaviNayan/DSA---LeetCode/tree/master/0242-valid-anagram) |
+| [0415-add-strings](https://github.com/RaviNayan/DSA---LeetCode/tree/master/0415-add-strings) |
 | [0451-sort-characters-by-frequency](https://github.com/RaviNayan/DSA---LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0796-rotate-string](https://github.com/RaviNayan/DSA---LeetCode/tree/master/0796-rotate-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/RaviNayan/DSA---LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -281,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/RaviNayan/DSA---LeetCode/tree/master/0054-spiral-matrix) |
 | [0258-add-digits](https://github.com/RaviNayan/DSA---LeetCode/tree/master/0258-add-digits) |
+| [0415-add-strings](https://github.com/RaviNayan/DSA---LeetCode/tree/master/0415-add-strings) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/RaviNayan/DSA---LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Union-Find
 |  |
