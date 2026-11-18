@@ -263,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/RaviNayan/DSA---LeetCode/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/RaviNayan/DSA---LeetCode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2788-split-strings-by-separator](https://github.com/RaviNayan/DSA---LeetCode/tree/master/2788-split-strings-by-separator) |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/RaviNayan/DSA---LeetCode/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/RaviNayan/DSA---LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Sliding Window
 |  |
