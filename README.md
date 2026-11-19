@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/RaviNayan/DSA---LeetCode/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/RaviNayan/DSA---LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/RaviNayan/DSA---LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [0561-array-partition](https://github.com/RaviNayan/DSA---LeetCode/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/RaviNayan/DSA---LeetCode/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/RaviNayan/DSA---LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0724-find-pivot-index](https://github.com/RaviNayan/DSA---LeetCode/tree/master/0724-find-pivot-index) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/RaviNayan/DSA---LeetCode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/RaviNayan/DSA---LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0451-sort-characters-by-frequency](https://github.com/RaviNayan/DSA---LeetCode/tree/master/0451-sort-characters-by-frequency) |
+| [0561-array-partition](https://github.com/RaviNayan/DSA---LeetCode/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/RaviNayan/DSA---LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/RaviNayan/DSA---LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/RaviNayan/DSA---LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/RaviNayan/DSA---LeetCode/tree/master/0055-jump-game) |
 | [0409-longest-palindrome](https://github.com/RaviNayan/DSA---LeetCode/tree/master/0409-longest-palindrome) |
 | [0410-split-array-largest-sum](https://github.com/RaviNayan/DSA---LeetCode/tree/master/0410-split-array-largest-sum) |
+| [0561-array-partition](https://github.com/RaviNayan/DSA---LeetCode/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/RaviNayan/DSA---LeetCode/tree/master/0605-can-place-flowers) |
 | [0860-lemonade-change](https://github.com/RaviNayan/DSA---LeetCode/tree/master/0860-lemonade-change) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/RaviNayan/DSA---LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -340,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0561-array-partition](https://github.com/RaviNayan/DSA---LeetCode/tree/master/0561-array-partition) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/RaviNayan/DSA---LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Quicksort
 |  |
