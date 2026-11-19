@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-lemonade-change](https://github.com/RaviNayan/DSA---LeetCode/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/RaviNayan/DSA---LeetCode/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/RaviNayan/DSA---LeetCode/tree/master/0904-fruit-into-baskets) |
+| [0942-di-string-match](https://github.com/RaviNayan/DSA---LeetCode/tree/master/0942-di-string-match) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/RaviNayan/DSA---LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1053-previous-permutation-with-one-swap](https://github.com/RaviNayan/DSA---LeetCode/tree/master/1053-previous-permutation-with-one-swap) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/RaviNayan/DSA---LeetCode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/RaviNayan/DSA---LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0349-intersection-of-two-arrays](https://github.com/RaviNayan/DSA---LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0876-middle-of-the-linked-list](https://github.com/RaviNayan/DSA---LeetCode/tree/master/0876-middle-of-the-linked-list) |
+| [0942-di-string-match](https://github.com/RaviNayan/DSA---LeetCode/tree/master/0942-di-string-match) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/RaviNayan/DSA---LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/RaviNayan/DSA---LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Sorting
@@ -200,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/RaviNayan/DSA---LeetCode/tree/master/0605-can-place-flowers) |
 | [0860-lemonade-change](https://github.com/RaviNayan/DSA---LeetCode/tree/master/0860-lemonade-change) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/RaviNayan/DSA---LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [0942-di-string-match](https://github.com/RaviNayan/DSA---LeetCode/tree/master/0942-di-string-match) |
 | [1053-previous-permutation-with-one-swap](https://github.com/RaviNayan/DSA---LeetCode/tree/master/1053-previous-permutation-with-one-swap) |
 ## Math
 |  |
@@ -261,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/RaviNayan/DSA---LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0796-rotate-string](https://github.com/RaviNayan/DSA---LeetCode/tree/master/0796-rotate-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/RaviNayan/DSA---LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [0942-di-string-match](https://github.com/RaviNayan/DSA---LeetCode/tree/master/0942-di-string-match) |
 | [1021-remove-outermost-parentheses](https://github.com/RaviNayan/DSA---LeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/RaviNayan/DSA---LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/RaviNayan/DSA---LeetCode/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
