@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/RaviNayan/DSA---LeetCode/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/RaviNayan/DSA---LeetCode/tree/master/0904-fruit-into-baskets) |
 | [0942-di-string-match](https://github.com/RaviNayan/DSA---LeetCode/tree/master/0942-di-string-match) |
+| [0976-largest-perimeter-triangle](https://github.com/RaviNayan/DSA---LeetCode/tree/master/0976-largest-perimeter-triangle) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/RaviNayan/DSA---LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1053-previous-permutation-with-one-swap](https://github.com/RaviNayan/DSA---LeetCode/tree/master/1053-previous-permutation-with-one-swap) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/RaviNayan/DSA---LeetCode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/RaviNayan/DSA---LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0561-array-partition](https://github.com/RaviNayan/DSA---LeetCode/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/RaviNayan/DSA---LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0976-largest-perimeter-triangle](https://github.com/RaviNayan/DSA---LeetCode/tree/master/0976-largest-perimeter-triangle) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/RaviNayan/DSA---LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/RaviNayan/DSA---LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/RaviNayan/DSA---LeetCode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
@@ -203,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-lemonade-change](https://github.com/RaviNayan/DSA---LeetCode/tree/master/0860-lemonade-change) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/RaviNayan/DSA---LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0942-di-string-match](https://github.com/RaviNayan/DSA---LeetCode/tree/master/0942-di-string-match) |
+| [0976-largest-perimeter-triangle](https://github.com/RaviNayan/DSA---LeetCode/tree/master/0976-largest-perimeter-triangle) |
 | [1053-previous-permutation-with-one-swap](https://github.com/RaviNayan/DSA---LeetCode/tree/master/1053-previous-permutation-with-one-swap) |
 ## Math
 |  |
@@ -224,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/RaviNayan/DSA---LeetCode/tree/master/0415-add-strings) |
 | [0628-maximum-product-of-three-numbers](https://github.com/RaviNayan/DSA---LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0728-self-dividing-numbers](https://github.com/RaviNayan/DSA---LeetCode/tree/master/0728-self-dividing-numbers) |
+| [0976-largest-perimeter-triangle](https://github.com/RaviNayan/DSA---LeetCode/tree/master/0976-largest-perimeter-triangle) |
 | [1922-count-good-numbers](https://github.com/RaviNayan/DSA---LeetCode/tree/master/1922-count-good-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/RaviNayan/DSA---LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Recursion
@@ -353,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/RaviNayan/DSA---LeetCode/tree/master/0056-merge-intervals) |
+| [0976-largest-perimeter-triangle](https://github.com/RaviNayan/DSA---LeetCode/tree/master/0976-largest-perimeter-triangle) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -486,4 +491,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/RaviNayan/DSA---LeetCode/tree/master/0278-first-bad-version) |
+## Polygons
+|  |
+| ------- |
+| [0976-largest-perimeter-triangle](https://github.com/RaviNayan/DSA---LeetCode/tree/master/0976-largest-perimeter-triangle) |
 <!---LeetCode Topics End-->
