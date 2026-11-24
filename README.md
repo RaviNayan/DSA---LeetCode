@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2788-split-strings-by-separator](https://github.com/RaviNayan/DSA---LeetCode/tree/master/2788-split-strings-by-separator) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/RaviNayan/DSA---LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/RaviNayan/DSA---LeetCode/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/RaviNayan/DSA---LeetCode/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/RaviNayan/DSA---LeetCode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3731-find-missing-elements](https://github.com/RaviNayan/DSA---LeetCode/tree/master/3731-find-missing-elements) |
 ## Two Pointers
@@ -232,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1352-product-of-the-last-k-numbers](https://github.com/RaviNayan/DSA---LeetCode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1922-count-good-numbers](https://github.com/RaviNayan/DSA---LeetCode/tree/master/1922-count-good-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/RaviNayan/DSA---LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/RaviNayan/DSA---LeetCode/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Recursion
 |  |
 | ------- |
@@ -283,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/RaviNayan/DSA---LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0904-fruit-into-baskets](https://github.com/RaviNayan/DSA---LeetCode/tree/master/0904-fruit-into-baskets) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/RaviNayan/DSA---LeetCode/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Counting
 |  |
 | ------- |
@@ -319,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/RaviNayan/DSA---LeetCode/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/RaviNayan/DSA---LeetCode/tree/master/0258-add-digits) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/RaviNayan/DSA---LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/RaviNayan/DSA---LeetCode/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Matrix
 |  |
 | ------- |
@@ -428,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/RaviNayan/DSA---LeetCode/tree/master/0204-count-primes) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/RaviNayan/DSA---LeetCode/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Primality Test
 |  |
 | ------- |
