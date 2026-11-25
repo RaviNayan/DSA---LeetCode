@@ -177,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/RaviNayan/DSA---LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0278-first-bad-version](https://github.com/RaviNayan/DSA---LeetCode/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/RaviNayan/DSA---LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0367-valid-perfect-square](https://github.com/RaviNayan/DSA---LeetCode/tree/master/0367-valid-perfect-square) |
 | [0410-split-array-largest-sum](https://github.com/RaviNayan/DSA---LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/RaviNayan/DSA---LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0875-koko-eating-bananas](https://github.com/RaviNayan/DSA---LeetCode/tree/master/0875-koko-eating-bananas) |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/RaviNayan/DSA---LeetCode/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/RaviNayan/DSA---LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/RaviNayan/DSA---LeetCode/tree/master/0342-power-of-four) |
+| [0367-valid-perfect-square](https://github.com/RaviNayan/DSA---LeetCode/tree/master/0367-valid-perfect-square) |
 | [0415-add-strings](https://github.com/RaviNayan/DSA---LeetCode/tree/master/0415-add-strings) |
 | [0628-maximum-product-of-three-numbers](https://github.com/RaviNayan/DSA---LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0728-self-dividing-numbers](https://github.com/RaviNayan/DSA---LeetCode/tree/master/0728-self-dividing-numbers) |
