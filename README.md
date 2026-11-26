@@ -235,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1352-product-of-the-last-k-numbers](https://github.com/RaviNayan/DSA---LeetCode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1922-count-good-numbers](https://github.com/RaviNayan/DSA---LeetCode/tree/master/1922-count-good-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/RaviNayan/DSA---LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3360-stone-removal-game](https://github.com/RaviNayan/DSA---LeetCode/tree/master/3360-stone-removal-game) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/RaviNayan/DSA---LeetCode/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Recursion
 |  |
@@ -314,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/RaviNayan/DSA---LeetCode/tree/master/0415-add-strings) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/RaviNayan/DSA---LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/RaviNayan/DSA---LeetCode/tree/master/2243-calculate-digit-sum-of-a-string) |
+| [3360-stone-removal-game](https://github.com/RaviNayan/DSA---LeetCode/tree/master/3360-stone-removal-game) |
 ## Union-Find
 |  |
 | ------- |
